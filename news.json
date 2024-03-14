@@ -1,0 +1,2390 @@
+{
+  "news": [
+    {
+      "uri": "nyt://article/c101f68c-7e23-534c-aa8a-c129f4a2a477",
+      "url": "https://www.nytimes.com/2024/03/07/science/honeycreeper-birds-colombia-gynadromorph.html",
+      "id": 100000009343837,
+      "asset_id": 100000009343837,
+      "category": "business",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-08 11:02:04",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Birds;Reproduction (Biological);Genetics and Heredity;Chromosomes;your-feed-science;your-feed-animals;Spencer, Hamish G;Journal of Field Ornithology;Colombia",
+      "column": null,
+      "byline": "By Emily Anthes",
+      "type": "Article",
+      "title": "This Bird Is Half Male, Half Female, and Completely Stunning",
+      "abstract": "A green honeycreeper spotted on a farm in Colombia exhibits a rare biological phenomenon known as bilateral gynandromorphism.",
+      "des_facet": [
+        "Birds",
+        "Reproduction (Biological)",
+        "Genetics and Heredity",
+        "Chromosomes",
+        "your-feed-science",
+        "your-feed-animals"
+      ],
+      "org_facet": ["Journal of Field Ornithology"],
+      "per_facet": ["Spencer, Hamish G"],
+      "geo_facet": ["Colombia"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "John Murillo",
+          "approved_for_syndication": 0,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06TB-HONEYCREEPER-lkhv/06TB-HONEYCREEPER-lkhv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06TB-HONEYCREEPER-lkhv/06TB-HONEYCREEPER-lkhv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06TB-HONEYCREEPER-lkhv/06TB-HONEYCREEPER-lkhv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/7f8c6aff-49cb-510b-b83e-9c323c29814b",
+      "url": "https://www.nytimes.com/interactive/2024/03/08/us/sat-online-quiz.html",
+      "id": 100000009349428,
+      "asset_id": 100000009349428,
+      "category": "entertainment",
+      "source": "New York Times",
+      "published_date": "2024-03-08",
+      "updated": "2024-03-11 15:46:33",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Dana Goldstein",
+      "type": "Interactive",
+      "title": "Here’s What It’s Like to Take the New SAT",
+      "abstract": "Students will take a new SAT on Saturday. It’s all digital, and the reading and writing sections do away with page-long reading excerpts with eight to 11 questions.",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Joe Raedle",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/sat-online-quiz-mkwg/sat-online-quiz-mkwg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/sat-online-quiz-mkwg/sat-online-quiz-mkwg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/sat-online-quiz-mkwg/sat-online-quiz-mkwg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d7c24828-97e8-5352-9530-7c9dda32e4d3",
+      "url": "https://www.nytimes.com/2024/03/06/world/europe/josette-molland-dead.html",
+      "id": 100000009339739,
+      "asset_id": 100000009339739,
+      "category": "general",
+      "source": "New York Times",
+      "published_date": "2024-03-06",
+      "updated": "2024-03-08 10:55:33",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "World War II (1939-45);Concentration Camps;Holocaust and the Nazi Era;Deaths (Obituaries);Art;Molland, Josette (1923-2024);Lyon (France)",
+      "column": null,
+      "byline": "By Adam Nossiter",
+      "type": "Article",
+      "title": "Josette Molland, Who Told of Life in Nazi Camps Through Art, Dies at 100",
+      "abstract": "She endured horrors as a captured member of the French Resistance, and to ensure that her story, too, would survive, she depicted them years later in a series of stark paintings.",
+      "des_facet": [
+        "World War II (1939-45)",
+        "Concentration Camps",
+        "Holocaust and the Nazi Era",
+        "Deaths (Obituaries)",
+        "Art"
+      ],
+      "org_facet": [],
+      "per_facet": ["Molland, Josette (1923-2024)"],
+      "geo_facet": ["Lyon (France)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Josette Molland at 22 in the clothing she wore as an inmate of a Nazi forced-labor camp.",
+          "copyright": "Photograph, via Collection",
+          "approved_for_syndication": 0,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/obituaries/00Molland-Art-Cell-print8/00Molland-Art-Cell-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/obituaries/00Molland-Art-Cell-print8/00Molland-Art-Cell-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/obituaries/00Molland-Art-Cell-print8/00Molland-Art-Cell-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fae522d0-cc45-5d6c-82f1-7e73ac25c63b",
+      "url": "https://www.nytimes.com/2024/03/06/opinion/book-banning-crt-education.html",
+      "id": 100000009346176,
+      "asset_id": 100000009346176,
+      "category": "health",
+      "source": "New York Times",
+      "published_date": "2024-03-06",
+      "updated": "2024-03-10 19:49:56",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Education (K-12);Reading and Writing Skills (Education);Mathematics;Children and Childhood;Poverty;Black People;Hispanic-Americans;United States Politics and Government;United States",
+      "column": null,
+      "byline": "By Nicholas Kristof",
+      "type": "Article",
+      "title": "The School Issues We’re Battling Over Aren’t the Ones That Matter",
+      "abstract": "What’s worse than censoring a book? Kids not being able to read it anyway.",
+      "des_facet": [
+        "Education (K-12)",
+        "Reading and Writing Skills (Education)",
+        "Mathematics",
+        "Children and Childhood",
+        "Poverty",
+        "Black People",
+        "Hispanic-Americans",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["United States"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Wayne Miller/Magnum",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/opinion/06kristof/06kristof-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/opinion/06kristof/06kristof-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/opinion/06kristof/06kristof-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b9cf7678-d437-5aaf-82e1-e99b61ebfba8",
+      "url": "https://www.nytimes.com/2024/03/09/business/bmw-electric-vehicles.html",
+      "id": 100000009338024,
+      "asset_id": 100000009338024,
+      "category": "science",
+      "source": "New York Times",
+      "published_date": "2024-03-09",
+      "updated": "2024-03-12 22:37:22",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Automobiles;Electric and Hybrid Vehicles;Factories and Manufacturing;Batteries;Driverless and Semiautonomous Vehicles;Bayerische Motorenwerke AG;Tesla Motors Inc;Munich (Germany)",
+      "column": null,
+      "byline": "By Jack Ewing",
+      "type": "Article",
+      "title": "BMW Is a Surprise Winner in Electric Vehicles",
+      "abstract": "Once considered a laggard, the German luxury carmaker is one of only a few established automakers that has been able to compete effectively against Tesla.",
+      "des_facet": [
+        "Automobiles",
+        "Electric and Hybrid Vehicles",
+        "Factories and Manufacturing",
+        "Batteries",
+        "Driverless and Semiautonomous Vehicles"
+      ],
+      "org_facet": ["Bayerische Motorenwerke AG", "Tesla Motors Inc"],
+      "per_facet": [],
+      "geo_facet": ["Munich (Germany)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Employees conducting inspections of electric vehicles at BMW’s plant in Munich.",
+          "copyright": "Laetitia Vancon",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/13/multimedia/00bmw-electric-01-mhtc/00bmw-electric-01-mhtc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/13/multimedia/00bmw-electric-01-mhtc/00bmw-electric-01-mhtc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/13/multimedia/00bmw-electric-01-mhtc/00bmw-electric-01-mhtc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/12e16a42-5f4f-508a-b1ed-f3d5afb855f0",
+      "url": "https://www.nytimes.com/2024/03/07/movies/oscar-predictions-odds.html",
+      "id": 100000009337799,
+      "asset_id": 100000009337799,
+      "category": "sports",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-10 16:34:56",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Movies;Gladstone, Lily;Nolan, Christopher;Murphy, Cillian;Stone, Emma;Randolph, Da'Vine Joy;Downey, Robert Jr;Eilish, Billie;Academy of Motion Picture Arts and Sciences",
+      "column": null,
+      "byline": "By Kyle Buchanan",
+      "type": "Article",
+      "title": "Oscars 2024 Predictions: Who Will Win Best Picture, Actor and Actress?",
+      "abstract": "“Oppenheimer” is the best picture favorite, but the best actress race is full of suspense. Our expert predicts which films and artists will get trophies on Sunday.",
+      "des_facet": ["Movies"],
+      "org_facet": ["Academy of Motion Picture Arts and Sciences"],
+      "per_facet": [
+        "Gladstone, Lily",
+        "Nolan, Christopher",
+        "Murphy, Cillian",
+        "Stone, Emma",
+        "Randolph, Da'Vine Joy",
+        "Downey, Robert Jr",
+        "Eilish, Billie"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The push to see “Oppenheimer” in IMAX probably helped its chances.",
+          "copyright": "Universal Pictures",
+          "approved_for_syndication": 0,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/08/01/multimedia/07oscar-predix-sound/07oscar-predix-sound-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/08/01/multimedia/07oscar-predix-sound/31BOMB-ICONOGRAPHY-zpgf-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/08/01/multimedia/07oscar-predix-sound/31BOMB-ICONOGRAPHY-zpgf-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f12c3db0-0046-55c5-8184-d68d1447d9dd",
+      "url": "https://www.nytimes.com/2024/03/07/us/politics/state-of-the-union-takeaways.html",
+      "id": 100000009345067,
+      "asset_id": 100000009345067,
+      "category": "technology",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-08 11:32:43",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;State of the Union Message (US);Biden, Joseph R Jr;Trump, Donald J",
+      "column": null,
+      "byline": "By Michael D. Shear and Shane Goldmacher",
+      "type": "Article",
+      "title": "5 Takeaways From the State of the Union",
+      "abstract": "Verbal swings at Donald Trump, though not by name. A spirited back-and-forth with G.O.P. lawmakers. And a loud and feisty delivery.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "State of the Union Message (US)"
+      ],
+      "org_facet": [],
+      "per_facet": ["Biden, Joseph R Jr", "Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the news media watch President Biden’s State of the Union address in a hallway of the Capitol on Thursday night.",
+          "copyright": "Pete Marovich",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07dc-takeaways1-hvzb/07dc-takeaways1-hvzb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07dc-takeaways1-hvzb/07dc-takeaways1-hvzb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07dc-takeaways1-hvzb/07dc-takeaways1-hvzb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/c849db76-202c-5bd7-86d4-d93f4b39011f",
+      "url": "https://www.nytimes.com/interactive/2024/03/07/movies/2024-oscars-ballot.html",
+      "id": 100000009339162,
+      "asset_id": 100000009339162,
+      "category": "business",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-07 17:01:10",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Movies;Academy Awards (Oscars)",
+      "column": null,
+      "byline": "",
+      "type": "Interactive",
+      "title": "Oscars 2024: Print Your Ballot!",
+      "abstract": "Now it’s your turn to predict which nominees will win.",
+      "des_facet": ["Movies", "Academy Awards (Oscars)"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "John Smith",
+          "approved_for_syndication": 0,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/arts/2024-oscars-ballot-promo/2024-oscars-ballot-promo-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/arts/2024-oscars-ballot-promo/2024-oscars-ballot-promo-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/arts/2024-oscars-ballot-promo/2024-oscars-ballot-promo-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/582419a6-8865-57ef-9638-e5f3daaece84",
+      "url": "https://www.nytimes.com/2024/03/08/well/mind/floor-time-benefits.html",
+      "id": 100000009345631,
+      "asset_id": 100000009345631,
+      "category": "entertainment",
+      "source": "New York Times",
+      "published_date": "2024-03-08",
+      "updated": "2024-03-12 18:40:29",
+      "section": "Well",
+      "subsection": "Mind",
+      "nytdsection": "well",
+      "adx_keywords": "Content Type: Service;Depression (Mental);Medicine and Health;Mental Health and Disorders;Back (Human Body Part)",
+      "column": null,
+      "byline": "By Christina Caron",
+      "type": "Article",
+      "title": "Are You a ‘Floor Person’? Why Lying on the Ground Feels So Good",
+      "abstract": "For some, just a few minutes can quiet the mind.",
+      "des_facet": [
+        "Content Type: Service",
+        "Depression (Mental)",
+        "Medicine and Health",
+        "Mental Health and Disorders",
+        "Back (Human Body Part)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/12/well/WELL-FLOOR-TIME1/WELL-FLOOR-TIME1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/12/well/WELL-FLOOR-TIME1/WELL-FLOOR-TIME1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/12/well/WELL-FLOOR-TIME1/WELL-FLOOR-TIME1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/645e483e-b61c-5901-98de-a41e47eed485",
+      "url": "https://www.nytimes.com/2024/03/09/opinion/emmanuel-todd-decline-west.html",
+      "id": 100000009346682,
+      "asset_id": 100000009346682,
+      "category": "general",
+      "source": "New York Times",
+      "published_date": "2024-03-09",
+      "updated": "2024-03-10 10:55:47",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Books and Literature;Russian Invasion of Ukraine (2022);United States International Relations;Todd, Emmanuel;Biden, Joseph R Jr;Putin, Vladimir V;North Atlantic Treaty Organization;Russia;Ukraine;Europe",
+      "column": null,
+      "byline": "By Christopher Caldwell",
+      "type": "Article",
+      "title": "This Prophetic Academic Now Foresees the West’s Defeat",
+      "abstract": "Emmanuel Todd, a historian and anthropologist, has a knack for prediction.",
+      "des_facet": [
+        "Books and Literature",
+        "Russian Invasion of Ukraine (2022)",
+        "United States International Relations"
+      ],
+      "org_facet": ["North Atlantic Treaty Organization"],
+      "per_facet": [
+        "Todd, Emmanuel",
+        "Biden, Joseph R Jr",
+        "Putin, Vladimir V"
+      ],
+      "geo_facet": ["Russia", "Ukraine", "Europe"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Joel Saget",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/09caldwell/09caldwell-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/09caldwell/09caldwell-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/09caldwell/09caldwell-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/66b4b560-2b04-5be2-a939-4847049eae8c",
+      "url": "https://www.nytimes.com/2024/03/09/business/social-security-scams.html",
+      "id": 100000009337120,
+      "asset_id": 100000009337120,
+      "category": "health",
+      "source": "New York Times",
+      "published_date": "2024-03-09",
+      "updated": "2024-03-09 14:57:30",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Social Security (US);Identity Theft;Frauds and Swindling;Content Type: Service;Social Security Administration",
+      "column": null,
+      "byline": "By Tara Siegel Bernard",
+      "type": "Article",
+      "title": "How Fraudsters Break Into Social Security Accounts and Steal Benefits",
+      "abstract": "Thousands of people receiving Social Security benefits have had their money diverted into criminal accounts. Here’s what to know.",
+      "des_facet": [
+        "Social Security (US)",
+        "Identity Theft",
+        "Frauds and Swindling",
+        "Content Type: Service"
+      ],
+      "org_facet": ["Social Security Administration"],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Scams involving Social Security are pervasive — fraudsters pose as employees to try to extract both money and valuable identifying details from people in a variety of evolving schemes. ",
+          "copyright": "Drew Angerer",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07social-security-scam-01-gpwl/07social-security-scam-01-gpwl-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07social-security-scam-01-gpwl/07social-security-scam-01-gpwl-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07social-security-scam-01-gpwl/07social-security-scam-01-gpwl-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/34d9308c-ac3c-566d-bf17-b31ba7f75f34",
+      "url": "https://www.nytimes.com/2024/03/07/opinion/trump-biden-fatigue.html",
+      "id": 100000009346661,
+      "asset_id": 100000009346661,
+      "category": "science",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-08 10:37:47",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Politics and Government;World War II (1939-45);Churchill, Winston Leonard Spencer;Trump, Donald J;Great Britain",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "Surviving the Ugliness of It All",
+      "abstract": "Winston Churchill and Franklin D. Roosevelt offered the confidence in our country that we need right now.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Politics and Government",
+        "World War II (1939-45)"
+      ],
+      "org_facet": [],
+      "per_facet": ["Churchill, Winston Leonard Spencer", "Trump, Donald J"],
+      "geo_facet": ["Great Britain"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bettmann Archive",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07brooks1/07brooks1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07brooks1/07brooks1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07brooks1/07brooks1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/94887f01-d6a1-53bf-8f02-44a7e5513ebf",
+      "url": "https://www.nytimes.com/2024/03/08/books/review/what-the-bees-see-craig-p-burrows.html",
+      "id": 100000009244056,
+      "asset_id": 100000009244056,
+      "category": "sports",
+      "source": "New York Times",
+      "published_date": "2024-03-08",
+      "updated": "2024-03-08 21:59:01",
+      "section": "Books",
+      "subsection": "Book Review",
+      "nytdsection": "books",
+      "adx_keywords": "Books and Literature;Bees;Ultraviolet Light;Photography;Burrows, Craig P",
+      "column": null,
+      "byline": "By William Atkins",
+      "type": "Article",
+      "title": "A Bee’s-Eye View of the World",
+      "abstract": "Using clever camera methods, a new photo book illuminates how honeybees see plants and flowers.",
+      "des_facet": [
+        "Books and Literature",
+        "Bees",
+        "Ultraviolet Light",
+        "Photography"
+      ],
+      "org_facet": [],
+      "per_facet": ["Burrows, Craig P"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Craig Burrows",
+          "approved_for_syndication": 0,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/multimedia/08upclose-bees-09-ljvg/08upclose-bees-09-ljvg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/multimedia/08upclose-bees-09-ljvg/08upclose-bees-09-ljvg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/multimedia/08upclose-bees-09-ljvg/08upclose-bees-09-ljvg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f5393fe3-ee1a-559e-86a8-15a33f7b4598",
+      "url": "https://www.nytimes.com/2024/03/07/opinion/mark-robinson-antisemitism.html",
+      "id": 100000009349191,
+      "asset_id": 100000009349191,
+      "category": "technology",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-09 06:55:05",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Politics and Government;Conservatism (US Politics);Conspiracy Theories;Anti-Semitism;Jews and Judaism;Governors (US);Robinson, Mark K (1968- );Republican Party;North Carolina",
+      "column": null,
+      "byline": "By Michelle Goldberg",
+      "type": "Article",
+      "title": "We Need to Talk About This Republican Candidate’s Antisemitism",
+      "abstract": "Mark Robinson has a history of anti-Jewish conspiracy theories. His party doesn’t care.",
+      "des_facet": [
+        "Politics and Government",
+        "Conservatism (US Politics)",
+        "Conspiracy Theories",
+        "Anti-Semitism",
+        "Jews and Judaism",
+        "Governors (US)"
+      ],
+      "org_facet": ["Republican Party"],
+      "per_facet": ["Robinson, Mark K (1968- )"],
+      "geo_facet": ["North Carolina"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Travis Dove",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/10/multimedia/07goldberg1-czfj/07goldberg1-czfj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/10/multimedia/07goldberg1-czfj/07goldberg1-czfj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/10/multimedia/07goldberg1-czfj/07goldberg1-czfj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e70e0fe5-a246-5c44-a0f5-ad9094b22fc6",
+      "url": "https://www.nytimes.com/2024/03/06/travel/total-solar-eclipse-2024.html",
+      "id": 100000009336506,
+      "asset_id": 100000009336506,
+      "category": "business",
+      "source": "New York Times",
+      "published_date": "2024-03-06",
+      "updated": "2024-03-13 09:34:48",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "Travel and Vacations;Content Type: Service;Space and Astronomy;Eclipses;Festivals;Camps and Camping;Music;Arrested Development (Music Group);Band of Horses;Blonde Redhead;Cash, Johnny, Boyhood Home (Dyess, Ark);Deerfhoof;Delta Air Lines Inc;Disco Biscuits;Indianapolis Motor Speedway;Meow Wolf (Art Collective);National Aeronautics and Space Administration;Vampire Weekend (Music Group);Sun Ra Arkestra;Adirondack Mountains (NY);Arkansas;Texas;Mexico;Lake Champlain;Niagara Falls (NY);Montreal (Quebec)",
+      "column": null,
+      "byline": "By Danielle Dowling",
+      "type": "Article",
+      "title": "31 Things to Do for the Big Eclipse This April",
+      "abstract": "On April 8, the moon will blot out the sun along a roughly 4,200-mile-long, 115-mile-wide path across North America. Where will you watch it? Here are some ideas.",
+      "des_facet": [
+        "Travel and Vacations",
+        "Content Type: Service",
+        "Space and Astronomy",
+        "Eclipses",
+        "Festivals",
+        "Camps and Camping",
+        "Music"
+      ],
+      "org_facet": [
+        "Arrested Development (Music Group)",
+        "Band of Horses",
+        "Blonde Redhead",
+        "Cash, Johnny, Boyhood Home (Dyess, Ark)",
+        "Deerfhoof",
+        "Delta Air Lines Inc",
+        "Disco Biscuits",
+        "Indianapolis Motor Speedway",
+        "Meow Wolf (Art Collective)",
+        "National Aeronautics and Space Administration",
+        "Vampire Weekend (Music Group)",
+        "Sun Ra Arkestra"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Adirondack Mountains (NY)",
+        "Arkansas",
+        "Texas",
+        "Mexico",
+        "Lake Champlain",
+        "Niagara Falls (NY)",
+        "Montreal (Quebec)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Catching the last total solar eclipse that swept across a large swath of North America, in August 2017. This April’s eclipse will darken skies from Mazatlán, Mexico, to Newfoundland, Canada.",
+          "copyright": "John Minchillo",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06eclipse-roundup-01-bzvw/06eclipse-roundup-01-bzvw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06eclipse-roundup-01-bzvw/06eclipse-roundup-01-bzvw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06eclipse-roundup-01-bzvw/06eclipse-roundup-01-bzvw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/4a85a476-0878-5189-9b7b-ebe1dc86c095",
+      "url": "https://www.nytimes.com/interactive/2024/03/07/opinion/nuclear-weapons-president.html",
+      "id": 100000009344716,
+      "asset_id": 100000009344716,
+      "category": "entertainment",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-13 17:29:12",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Nuclear Weapons;Presidents and Presidency (US);Missiles and Missile Defense Systems;United States Politics and Government;United States Defense and Military Forces;United States International Relations;War and Emergency Powers (US);internal-open-access;North American Aerospace Defense Command",
+      "column": null,
+      "byline": "By W.J. Hennigan",
+      "type": "Interactive",
+      "title": "The Danger of the President’s Nuclear Powers",
+      "abstract": "In the United States, it’s up to one person to decide whether the world becomes engulfed in nuclear war.",
+      "des_facet": [
+        "Nuclear Weapons",
+        "Presidents and Presidency (US)",
+        "Missiles and Missile Defense Systems",
+        "United States Politics and Government",
+        "United States Defense and Military Forces",
+        "United States International Relations",
+        "War and Emergency Powers (US)",
+        "internal-open-access"
+      ],
+      "org_facet": ["North American Aerospace Defense Command"],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "An-My Le for The New York Times",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07hennigan-qcvk/07hennigan-qcvk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07hennigan-qcvk/07hennigan-qcvk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07hennigan-qcvk/07hennigan-qcvk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/66380623-a1c6-5d66-a9c3-0a972f7d100f",
+      "url": "https://www.nytimes.com/2024/03/06/opinion/trump-republican-party.html",
+      "id": 100000009299920,
+      "asset_id": 100000009299920,
+      "category": "general",
+      "source": "New York Times",
+      "published_date": "2024-03-06",
+      "updated": "2024-03-09 06:56:45",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Primaries and Caucuses;Presidential Election of 2024;United States Politics and Government;Democracy (Theory and Philosophy);Trump, Donald J;Republican Party",
+      "column": null,
+      "byline": "By The Editorial Board",
+      "type": "Article",
+      "title": "Trump’s Conquest of the Republican Party Matters to Every American",
+      "abstract": "Donald Trump has used the presidential primaries to purge his party of dissent. Republicans have lost the capacity to serve as a check on his power.",
+      "des_facet": [
+        "Primaries and Caucuses",
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Democracy (Theory and Philosophy)"
+      ],
+      "org_facet": ["Republican Party"],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Haiyun Jiang",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/opinion/06republican1/06republican1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/opinion/06republican1/06republican1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/opinion/06republican1/06republican1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/51fc6eab-5df3-519a-b5ac-91d4d40c6b55",
+      "url": "https://www.nytimes.com/2024/03/08/opinion/zone-of-interest-complicity.html",
+      "id": 100000009339519,
+      "asset_id": 100000009339519,
+      "category": "health",
+      "source": "New York Times",
+      "published_date": "2024-03-08",
+      "updated": "2024-03-09 11:26:12",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Movies;Academy Awards (Oscars);Holocaust and the Nazi Era;Israel-Gaza War (2023- );Civilian Casualties;Glazer, Jonathan;Hoss, Rudolf;Auschwitz Concentration Camp;Gaza Strip;Israel",
+      "column": null,
+      "byline": "By David Klion",
+      "type": "Article",
+      "title": "The Oscar Contender That Won’t Let Us Look Away",
+      "abstract": "“Zone of Interest” avoids the pitfalls of fictionalizing the Holocaust. It is also unsettlingly relevant to our current moment.",
+      "des_facet": [
+        "Movies",
+        "Academy Awards (Oscars)",
+        "Holocaust and the Nazi Era",
+        "Israel-Gaza War (2023- )",
+        "Civilian Casualties"
+      ],
+      "org_facet": ["Auschwitz Concentration Camp"],
+      "per_facet": ["Glazer, Jonathan", "Hoss, Rudolf"],
+      "geo_facet": ["Gaza Strip", "Israel"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sam Whitney",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07klion-image/07klion-image-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07klion-image/07klion-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07klion-image/07klion-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/537424e1-6dd2-5b98-892c-e5b6b82e2a99",
+      "url": "https://www.nytimes.com/2024/03/07/opinion/trump-pandemic-president.html",
+      "id": 100000009348396,
+      "asset_id": 100000009348396,
+      "category": "science",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-07 21:07:32",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus (2019-nCoV);Presidential Election of 2024;Deaths (Fatalities);Disease Rates;Masks;Biden, Joseph R Jr;Trump, Donald J;Stefanik, Elise",
+      "column": null,
+      "byline": "By Paul Krugman",
+      "type": "Article",
+      "title": "Reminder: Trump’s Last Year in Office Was a National Nightmare",
+      "abstract": "And he made the nightmare much worse.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Presidential Election of 2024",
+        "Deaths (Fatalities)",
+        "Disease Rates",
+        "Masks"
+      ],
+      "org_facet": [],
+      "per_facet": ["Biden, Joseph R Jr", "Trump, Donald J", "Stefanik, Elise"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07krugman1/07krugman1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07krugman1/07krugman1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07krugman1/07krugman1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d5725036-5410-56a3-976f-2c4551108298",
+      "url": "https://www.nytimes.com/article/nova-new-star-t-coronae-borealis.html",
+      "id": 100000009348472,
+      "asset_id": 100000009348472,
+      "category": "sports",
+      "source": "New York Times",
+      "published_date": "2024-03-08",
+      "updated": "2024-03-08 09:25:13",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Space and Astronomy;Stars and Galaxies;Content Type: Service",
+      "column": null,
+      "byline": "By Robin George Andrews",
+      "type": "Article",
+      "title": "The Night Sky Will Soon Get ‘a New Star.’ Here’s How to See It.",
+      "abstract": "A nova named T Coronae Borealis lit up the night about 80 years ago, and astronomers say it’s expected to put on another show in the coming months.",
+      "des_facet": [
+        "Space and Astronomy",
+        "Stars and Galaxies",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "John Smith",
+          "approved_for_syndication": 0,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/08sci-nova-59767-cover/08sci-nova-59767-cover-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/08sci-nova-59767-cover/08sci-nova-59767-cover-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/08sci-nova-59767-cover/08sci-nova-59767-cover-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c101f68c-7e23-534c-aa8a-c129f4a2a477",
+      "url": "https://www.nytimes.com/2024/03/07/science/honeycreeper-birds-colombia-gynadromorph.html",
+      "id": 100000009343101,
+      "asset_id": 100000009343101,
+      "category": "business",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-08 11:02:04",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Birds;Reproduction (Biological);Genetics and Heredity;Chromosomes;your-feed-science;your-feed-animals;Spencer, Hamish G;Journal of Field Ornithology;Colombia",
+      "column": null,
+      "byline": "By Emily Anthes",
+      "type": "Article",
+      "title": "This Bird Is Half Male, Half Female, and Completely Stunning",
+      "abstract": "A green honeycreeper spotted on a farm in Colombia exhibits a rare biological phenomenon known as bilateral gynandromorphism.",
+      "des_facet": [
+        "Birds",
+        "Reproduction (Biological)",
+        "Genetics and Heredity",
+        "Chromosomes",
+        "your-feed-science",
+        "your-feed-animals"
+      ],
+      "org_facet": ["Journal of Field Ornithology"],
+      "per_facet": ["Spencer, Hamish G"],
+      "geo_facet": ["Colombia"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "John Murillo",
+          "approved_for_syndication": 0,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06TB-HONEYCREEPER-lkhv/06TB-HONEYCREEPER-lkhv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06TB-HONEYCREEPER-lkhv/06TB-HONEYCREEPER-lkhv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06TB-HONEYCREEPER-lkhv/06TB-HONEYCREEPER-lkhv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/7f8c6aff-49cb-510b-b83e-9c323c29814b",
+      "url": "https://www.nytimes.com/interactive/2024/03/08/us/sat-online-quiz.html",
+      "id": 100000109349428,
+      "asset_id": 100000009349428,
+      "category": "entertainment",
+      "source": "New York Times",
+      "published_date": "2024-03-08",
+      "updated": "2024-03-11 15:46:33",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Dana Goldstein",
+      "type": "Interactive",
+      "title": "Here’s What It’s Like to Take the New SAT",
+      "abstract": "Students will take a new SAT on Saturday. It’s all digital, and the reading and writing sections do away with page-long reading excerpts with eight to 11 questions.",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Joe Raedle",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/sat-online-quiz-mkwg/sat-online-quiz-mkwg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/sat-online-quiz-mkwg/sat-online-quiz-mkwg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/sat-online-quiz-mkwg/sat-online-quiz-mkwg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d7c24828-97e8-5352-9530-7c9dda32e4d3",
+      "url": "https://www.nytimes.com/2024/03/06/world/europe/josette-molland-dead.html",
+      "id": 100000007339739,
+      "asset_id": 100000009339739,
+      "category": "general",
+      "source": "New York Times",
+      "published_date": "2024-03-06",
+      "updated": "2024-03-08 10:55:33",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "World War II (1939-45);Concentration Camps;Holocaust and the Nazi Era;Deaths (Obituaries);Art;Molland, Josette (1923-2024);Lyon (France)",
+      "column": null,
+      "byline": "By Adam Nossiter",
+      "type": "Article",
+      "title": "Josette Molland, Who Told of Life in Nazi Camps Through Art, Dies at 100",
+      "abstract": "She endured horrors as a captured member of the French Resistance, and to ensure that her story, too, would survive, she depicted them years later in a series of stark paintings.",
+      "des_facet": [
+        "World War II (1939-45)",
+        "Concentration Camps",
+        "Holocaust and the Nazi Era",
+        "Deaths (Obituaries)",
+        "Art"
+      ],
+      "org_facet": [],
+      "per_facet": ["Molland, Josette (1923-2024)"],
+      "geo_facet": ["Lyon (France)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Josette Molland at 22 in the clothing she wore as an inmate of a Nazi forced-labor camp.",
+          "copyright": "Photograph, via Collection",
+          "approved_for_syndication": 0,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/obituaries/00Molland-Art-Cell-print8/00Molland-Art-Cell-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/obituaries/00Molland-Art-Cell-print8/00Molland-Art-Cell-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/obituaries/00Molland-Art-Cell-print8/00Molland-Art-Cell-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fae522d0-cc45-5d6c-82f1-7e73ac25c63b",
+      "url": "https://www.nytimes.com/2024/03/06/opinion/book-banning-crt-education.html",
+      "id": 100000009343176,
+      "asset_id": 100000009346176,
+      "category": "health",
+      "source": "New York Times",
+      "published_date": "2024-03-06",
+      "updated": "2024-03-10 19:49:56",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Education (K-12);Reading and Writing Skills (Education);Mathematics;Children and Childhood;Poverty;Black People;Hispanic-Americans;United States Politics and Government;United States",
+      "column": null,
+      "byline": "By Nicholas Kristof",
+      "type": "Article",
+      "title": "The School Issues We’re Battling Over Aren’t the Ones That Matter",
+      "abstract": "What’s worse than censoring a book? Kids not being able to read it anyway.",
+      "des_facet": [
+        "Education (K-12)",
+        "Reading and Writing Skills (Education)",
+        "Mathematics",
+        "Children and Childhood",
+        "Poverty",
+        "Black People",
+        "Hispanic-Americans",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["United States"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Wayne Miller/Magnum",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/opinion/06kristof/06kristof-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/opinion/06kristof/06kristof-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/opinion/06kristof/06kristof-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b9cf7678-d437-5aaf-82e1-e99b61ebfba8",
+      "url": "https://www.nytimes.com/2024/03/09/business/bmw-electric-vehicles.html",
+      "id": 100000009338224,
+      "asset_id": 100000009338024,
+      "category": "science",
+      "source": "New York Times",
+      "published_date": "2024-03-09",
+      "updated": "2024-03-12 22:37:22",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Automobiles;Electric and Hybrid Vehicles;Factories and Manufacturing;Batteries;Driverless and Semiautonomous Vehicles;Bayerische Motorenwerke AG;Tesla Motors Inc;Munich (Germany)",
+      "column": null,
+      "byline": "By Jack Ewing",
+      "type": "Article",
+      "title": "BMW Is a Surprise Winner in Electric Vehicles",
+      "abstract": "Once considered a laggard, the German luxury carmaker is one of only a few established automakers that has been able to compete effectively against Tesla.",
+      "des_facet": [
+        "Automobiles",
+        "Electric and Hybrid Vehicles",
+        "Factories and Manufacturing",
+        "Batteries",
+        "Driverless and Semiautonomous Vehicles"
+      ],
+      "org_facet": ["Bayerische Motorenwerke AG", "Tesla Motors Inc"],
+      "per_facet": [],
+      "geo_facet": ["Munich (Germany)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Employees conducting inspections of electric vehicles at BMW’s plant in Munich.",
+          "copyright": "Laetitia Vancon",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/13/multimedia/00bmw-electric-01-mhtc/00bmw-electric-01-mhtc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/13/multimedia/00bmw-electric-01-mhtc/00bmw-electric-01-mhtc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/13/multimedia/00bmw-electric-01-mhtc/00bmw-electric-01-mhtc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/12e16a42-5f4f-508a-b1ed-f3d5afb855f0",
+      "url": "https://www.nytimes.com/2024/03/07/movies/oscar-predictions-odds.html",
+      "id": 100000009338799,
+      "asset_id": 100000009337799,
+      "category": "sports",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-10 16:34:56",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Movies;Gladstone, Lily;Nolan, Christopher;Murphy, Cillian;Stone, Emma;Randolph, Da'Vine Joy;Downey, Robert Jr;Eilish, Billie;Academy of Motion Picture Arts and Sciences",
+      "column": null,
+      "byline": "By Kyle Buchanan",
+      "type": "Article",
+      "title": "Oscars 2024 Predictions: Who Will Win Best Picture, Actor and Actress?",
+      "abstract": "“Oppenheimer” is the best picture favorite, but the best actress race is full of suspense. Our expert predicts which films and artists will get trophies on Sunday.",
+      "des_facet": ["Movies"],
+      "org_facet": ["Academy of Motion Picture Arts and Sciences"],
+      "per_facet": [
+        "Gladstone, Lily",
+        "Nolan, Christopher",
+        "Murphy, Cillian",
+        "Stone, Emma",
+        "Randolph, Da'Vine Joy",
+        "Downey, Robert Jr",
+        "Eilish, Billie"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The push to see “Oppenheimer” in IMAX probably helped its chances.",
+          "copyright": "Universal Pictures",
+          "approved_for_syndication": 0,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/08/01/multimedia/07oscar-predix-sound/07oscar-predix-sound-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/08/01/multimedia/07oscar-predix-sound/31BOMB-ICONOGRAPHY-zpgf-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/08/01/multimedia/07oscar-predix-sound/31BOMB-ICONOGRAPHY-zpgf-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f12c3db0-0046-55c5-8184-d68d1447d9dd",
+      "url": "https://www.nytimes.com/2024/03/07/us/politics/state-of-the-union-takeaways.html",
+      "id": 100000009325067,
+      "asset_id": 100000009345067,
+      "category": "technology",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-08 11:32:43",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;State of the Union Message (US);Biden, Joseph R Jr;Trump, Donald J",
+      "column": null,
+      "byline": "By Michael D. Shear and Shane Goldmacher",
+      "type": "Article",
+      "title": "5 Takeaways From the State of the Union",
+      "abstract": "Verbal swings at Donald Trump, though not by name. A spirited back-and-forth with G.O.P. lawmakers. And a loud and feisty delivery.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "State of the Union Message (US)"
+      ],
+      "org_facet": [],
+      "per_facet": ["Biden, Joseph R Jr", "Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the news media watch President Biden’s State of the Union address in a hallway of the Capitol on Thursday night.",
+          "copyright": "Pete Marovich",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07dc-takeaways1-hvzb/07dc-takeaways1-hvzb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07dc-takeaways1-hvzb/07dc-takeaways1-hvzb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07dc-takeaways1-hvzb/07dc-takeaways1-hvzb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/c849db76-202c-5bd7-86d4-d93f4b39011f",
+      "url": "https://www.nytimes.com/interactive/2024/03/07/movies/2024-oscars-ballot.html",
+      "id": 100000009339112,
+      "asset_id": 100000009339162,
+      "category": "business",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-07 17:01:10",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Movies;Academy Awards (Oscars)",
+      "column": null,
+      "byline": "",
+      "type": "Interactive",
+      "title": "Oscars 2024: Print Your Ballot!",
+      "abstract": "Now it’s your turn to predict which nominees will win.",
+      "des_facet": ["Movies", "Academy Awards (Oscars)"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "John Smith",
+          "approved_for_syndication": 0,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/arts/2024-oscars-ballot-promo/2024-oscars-ballot-promo-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/arts/2024-oscars-ballot-promo/2024-oscars-ballot-promo-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/arts/2024-oscars-ballot-promo/2024-oscars-ballot-promo-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/582419a6-8865-57ef-9638-e5f3daaece84",
+      "url": "https://www.nytimes.com/2024/03/08/well/mind/floor-time-benefits.html",
+      "id": 100000009345631,
+      "asset_id": 100009009345631,
+      "category": "entertainment",
+      "source": "New York Times",
+      "published_date": "2024-03-08",
+      "updated": "2024-03-12 18:40:29",
+      "section": "Well",
+      "subsection": "Mind",
+      "nytdsection": "well",
+      "adx_keywords": "Content Type: Service;Depression (Mental);Medicine and Health;Mental Health and Disorders;Back (Human Body Part)",
+      "column": null,
+      "byline": "By Christina Caron",
+      "type": "Article",
+      "title": "Are You a ‘Floor Person’? Why Lying on the Ground Feels So Good",
+      "abstract": "For some, just a few minutes can quiet the mind.",
+      "des_facet": [
+        "Content Type: Service",
+        "Depression (Mental)",
+        "Medicine and Health",
+        "Mental Health and Disorders",
+        "Back (Human Body Part)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/12/well/WELL-FLOOR-TIME1/WELL-FLOOR-TIME1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/12/well/WELL-FLOOR-TIME1/WELL-FLOOR-TIME1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/12/well/WELL-FLOOR-TIME1/WELL-FLOOR-TIME1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/645e483e-b61c-5901-98de-a41e47eed485",
+      "url": "https://www.nytimes.com/2024/03/09/opinion/emmanuel-todd-decline-west.html",
+      "id": 100000009346282,
+      "asset_id": 100000009346682,
+      "category": "general",
+      "source": "New York Times",
+      "published_date": "2024-03-09",
+      "updated": "2024-03-10 10:55:47",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Books and Literature;Russian Invasion of Ukraine (2022);United States International Relations;Todd, Emmanuel;Biden, Joseph R Jr;Putin, Vladimir V;North Atlantic Treaty Organization;Russia;Ukraine;Europe",
+      "column": null,
+      "byline": "By Christopher Caldwell",
+      "type": "Article",
+      "title": "This Prophetic Academic Now Foresees the West’s Defeat",
+      "abstract": "Emmanuel Todd, a historian and anthropologist, has a knack for prediction.",
+      "des_facet": [
+        "Books and Literature",
+        "Russian Invasion of Ukraine (2022)",
+        "United States International Relations"
+      ],
+      "org_facet": ["North Atlantic Treaty Organization"],
+      "per_facet": [
+        "Todd, Emmanuel",
+        "Biden, Joseph R Jr",
+        "Putin, Vladimir V"
+      ],
+      "geo_facet": ["Russia", "Ukraine", "Europe"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Joel Saget",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/09caldwell/09caldwell-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/09caldwell/09caldwell-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/09caldwell/09caldwell-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/66b4b560-2b04-5be2-a939-4847049eae8c",
+      "url": "https://www.nytimes.com/2024/03/09/business/social-security-scams.html",
+      "id": 100000009336120,
+      "asset_id": 100000009337120,
+      "category": "health",
+      "source": "New York Times",
+      "published_date": "2024-03-09",
+      "updated": "2024-03-09 14:57:30",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Social Security (US);Identity Theft;Frauds and Swindling;Content Type: Service;Social Security Administration",
+      "column": null,
+      "byline": "By Tara Siegel Bernard",
+      "type": "Article",
+      "title": "How Fraudsters Break Into Social Security Accounts and Steal Benefits",
+      "abstract": "Thousands of people receiving Social Security benefits have had their money diverted into criminal accounts. Here’s what to know.",
+      "des_facet": [
+        "Social Security (US)",
+        "Identity Theft",
+        "Frauds and Swindling",
+        "Content Type: Service"
+      ],
+      "org_facet": ["Social Security Administration"],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Scams involving Social Security are pervasive — fraudsters pose as employees to try to extract both money and valuable identifying details from people in a variety of evolving schemes. ",
+          "copyright": "Drew Angerer",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07social-security-scam-01-gpwl/07social-security-scam-01-gpwl-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07social-security-scam-01-gpwl/07social-security-scam-01-gpwl-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07social-security-scam-01-gpwl/07social-security-scam-01-gpwl-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/34d9308c-ac3c-566d-bf17-b31ba7f75f34",
+      "url": "https://www.nytimes.com/2024/03/07/opinion/trump-biden-fatigue.html",
+      "id": 100000009356661,
+      "asset_id": 100000009346661,
+      "category": "science",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-08 10:37:47",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Politics and Government;World War II (1939-45);Churchill, Winston Leonard Spencer;Trump, Donald J;Great Britain",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "Surviving the Ugliness of It All",
+      "abstract": "Winston Churchill and Franklin D. Roosevelt offered the confidence in our country that we need right now.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Politics and Government",
+        "World War II (1939-45)"
+      ],
+      "org_facet": [],
+      "per_facet": ["Churchill, Winston Leonard Spencer", "Trump, Donald J"],
+      "geo_facet": ["Great Britain"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bettmann Archive",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07brooks1/07brooks1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07brooks1/07brooks1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07brooks1/07brooks1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/94887f01-d6a1-53bf-8f02-44a7e5513ebf",
+      "url": "https://www.nytimes.com/2024/03/08/books/review/what-the-bees-see-craig-p-burrows.html",
+      "id": 100000009214056,
+      "asset_id": 100000009244056,
+      "category": "sports",
+      "source": "New York Times",
+      "published_date": "2024-03-08",
+      "updated": "2024-03-08 21:59:01",
+      "section": "Books",
+      "subsection": "Book Review",
+      "nytdsection": "books",
+      "adx_keywords": "Books and Literature;Bees;Ultraviolet Light;Photography;Burrows, Craig P",
+      "column": null,
+      "byline": "By William Atkins",
+      "type": "Article",
+      "title": "A Bee’s-Eye View of the World",
+      "abstract": "Using clever camera methods, a new photo book illuminates how honeybees see plants and flowers.",
+      "des_facet": [
+        "Books and Literature",
+        "Bees",
+        "Ultraviolet Light",
+        "Photography"
+      ],
+      "org_facet": [],
+      "per_facet": ["Burrows, Craig P"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Craig Burrows",
+          "approved_for_syndication": 0,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/multimedia/08upclose-bees-09-ljvg/08upclose-bees-09-ljvg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/multimedia/08upclose-bees-09-ljvg/08upclose-bees-09-ljvg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/multimedia/08upclose-bees-09-ljvg/08upclose-bees-09-ljvg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f5393fe3-ee1a-559e-86a8-15a33f7b4598",
+      "url": "https://www.nytimes.com/2024/03/07/opinion/mark-robinson-antisemitism.html",
+      "id": 100000009349491,
+      "asset_id": 100000009349191,
+      "category": "technology",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-09 06:55:05",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Politics and Government;Conservatism (US Politics);Conspiracy Theories;Anti-Semitism;Jews and Judaism;Governors (US);Robinson, Mark K (1968- );Republican Party;North Carolina",
+      "column": null,
+      "byline": "By Michelle Goldberg",
+      "type": "Article",
+      "title": "We Need to Talk About This Republican Candidate’s Antisemitism",
+      "abstract": "Mark Robinson has a history of anti-Jewish conspiracy theories. His party doesn’t care.",
+      "des_facet": [
+        "Politics and Government",
+        "Conservatism (US Politics)",
+        "Conspiracy Theories",
+        "Anti-Semitism",
+        "Jews and Judaism",
+        "Governors (US)"
+      ],
+      "org_facet": ["Republican Party"],
+      "per_facet": ["Robinson, Mark K (1968- )"],
+      "geo_facet": ["North Carolina"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Travis Dove",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/10/multimedia/07goldberg1-czfj/07goldberg1-czfj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/10/multimedia/07goldberg1-czfj/07goldberg1-czfj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/10/multimedia/07goldberg1-czfj/07goldberg1-czfj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e70e0fe5-a246-5c44-a0f5-ad9094b22fc6",
+      "url": "https://www.nytimes.com/2024/03/06/travel/total-solar-eclipse-2024.html",
+      "id": 100000009332506,
+      "asset_id": 100000009336506,
+      "category": "business",
+      "source": "New York Times",
+      "published_date": "2024-03-06",
+      "updated": "2024-03-13 09:34:48",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "Travel and Vacations;Content Type: Service;Space and Astronomy;Eclipses;Festivals;Camps and Camping;Music;Arrested Development (Music Group);Band of Horses;Blonde Redhead;Cash, Johnny, Boyhood Home (Dyess, Ark);Deerfhoof;Delta Air Lines Inc;Disco Biscuits;Indianapolis Motor Speedway;Meow Wolf (Art Collective);National Aeronautics and Space Administration;Vampire Weekend (Music Group);Sun Ra Arkestra;Adirondack Mountains (NY);Arkansas;Texas;Mexico;Lake Champlain;Niagara Falls (NY);Montreal (Quebec)",
+      "column": null,
+      "byline": "By Danielle Dowling",
+      "type": "Article",
+      "title": "31 Things to Do for the Big Eclipse This April",
+      "abstract": "On April 8, the moon will blot out the sun along a roughly 4,200-mile-long, 115-mile-wide path across North America. Where will you watch it? Here are some ideas.",
+      "des_facet": [
+        "Travel and Vacations",
+        "Content Type: Service",
+        "Space and Astronomy",
+        "Eclipses",
+        "Festivals",
+        "Camps and Camping",
+        "Music"
+      ],
+      "org_facet": [
+        "Arrested Development (Music Group)",
+        "Band of Horses",
+        "Blonde Redhead",
+        "Cash, Johnny, Boyhood Home (Dyess, Ark)",
+        "Deerfhoof",
+        "Delta Air Lines Inc",
+        "Disco Biscuits",
+        "Indianapolis Motor Speedway",
+        "Meow Wolf (Art Collective)",
+        "National Aeronautics and Space Administration",
+        "Vampire Weekend (Music Group)",
+        "Sun Ra Arkestra"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Adirondack Mountains (NY)",
+        "Arkansas",
+        "Texas",
+        "Mexico",
+        "Lake Champlain",
+        "Niagara Falls (NY)",
+        "Montreal (Quebec)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Catching the last total solar eclipse that swept across a large swath of North America, in August 2017. This April’s eclipse will darken skies from Mazatlán, Mexico, to Newfoundland, Canada.",
+          "copyright": "John Minchillo",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06eclipse-roundup-01-bzvw/06eclipse-roundup-01-bzvw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06eclipse-roundup-01-bzvw/06eclipse-roundup-01-bzvw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06eclipse-roundup-01-bzvw/06eclipse-roundup-01-bzvw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/4a85a476-0878-5189-9b7b-ebe1dc86c095",
+      "url": "https://www.nytimes.com/interactive/2024/03/07/opinion/nuclear-weapons-president.html",
+      "id": 100000009244716,
+      "asset_id": 100000009344716,
+      "category": "entertainment",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-13 17:29:12",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Nuclear Weapons;Presidents and Presidency (US);Missiles and Missile Defense Systems;United States Politics and Government;United States Defense and Military Forces;United States International Relations;War and Emergency Powers (US);internal-open-access;North American Aerospace Defense Command",
+      "column": null,
+      "byline": "By W.J. Hennigan",
+      "type": "Interactive",
+      "title": "The Danger of the President’s Nuclear Powers",
+      "abstract": "In the United States, it’s up to one person to decide whether the world becomes engulfed in nuclear war.",
+      "des_facet": [
+        "Nuclear Weapons",
+        "Presidents and Presidency (US)",
+        "Missiles and Missile Defense Systems",
+        "United States Politics and Government",
+        "United States Defense and Military Forces",
+        "United States International Relations",
+        "War and Emergency Powers (US)",
+        "internal-open-access"
+      ],
+      "org_facet": ["North American Aerospace Defense Command"],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "An-My Le for The New York Times",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07hennigan-qcvk/07hennigan-qcvk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07hennigan-qcvk/07hennigan-qcvk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07hennigan-qcvk/07hennigan-qcvk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/66380623-a1c6-5d66-a9c3-0a972f7d100f",
+      "url": "https://www.nytimes.com/2024/03/06/opinion/trump-republican-party.html",
+      "id": 100000009499920,
+      "asset_id": 100000009299920,
+      "category": "general",
+      "source": "New York Times",
+      "published_date": "2024-03-06",
+      "updated": "2024-03-09 06:56:45",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Primaries and Caucuses;Presidential Election of 2024;United States Politics and Government;Democracy (Theory and Philosophy);Trump, Donald J;Republican Party",
+      "column": null,
+      "byline": "By The Editorial Board",
+      "type": "Article",
+      "title": "Trump’s Conquest of the Republican Party Matters to Every American",
+      "abstract": "Donald Trump has used the presidential primaries to purge his party of dissent. Republicans have lost the capacity to serve as a check on his power.",
+      "des_facet": [
+        "Primaries and Caucuses",
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Democracy (Theory and Philosophy)"
+      ],
+      "org_facet": ["Republican Party"],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Haiyun Jiang",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/opinion/06republican1/06republican1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/opinion/06republican1/06republican1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/06/opinion/06republican1/06republican1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/51fc6eab-5df3-519a-b5ac-91d4d40c6b55",
+      "url": "https://www.nytimes.com/2024/03/08/opinion/zone-of-interest-complicity.html",
+      "id": 100200009339519,
+      "asset_id": 100000009339519,
+      "category": "health",
+      "source": "New York Times",
+      "published_date": "2024-03-08",
+      "updated": "2024-03-09 11:26:12",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Movies;Academy Awards (Oscars);Holocaust and the Nazi Era;Israel-Gaza War (2023- );Civilian Casualties;Glazer, Jonathan;Hoss, Rudolf;Auschwitz Concentration Camp;Gaza Strip;Israel",
+      "column": null,
+      "byline": "By David Klion",
+      "type": "Article",
+      "title": "The Oscar Contender That Won’t Let Us Look Away",
+      "abstract": "“Zone of Interest” avoids the pitfalls of fictionalizing the Holocaust. It is also unsettlingly relevant to our current moment.",
+      "des_facet": [
+        "Movies",
+        "Academy Awards (Oscars)",
+        "Holocaust and the Nazi Era",
+        "Israel-Gaza War (2023- )",
+        "Civilian Casualties"
+      ],
+      "org_facet": ["Auschwitz Concentration Camp"],
+      "per_facet": ["Glazer, Jonathan", "Hoss, Rudolf"],
+      "geo_facet": ["Gaza Strip", "Israel"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sam Whitney",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07klion-image/07klion-image-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07klion-image/07klion-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07klion-image/07klion-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/537424e1-6dd2-5b98-892c-e5b6b82e2a99",
+      "url": "https://www.nytimes.com/2024/03/07/opinion/trump-pandemic-president.html",
+      "id": 10000000988396,
+      "asset_id": 100000009348396,
+      "category": "science",
+      "source": "New York Times",
+      "published_date": "2024-03-07",
+      "updated": "2024-03-07 21:07:32",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus (2019-nCoV);Presidential Election of 2024;Deaths (Fatalities);Disease Rates;Masks;Biden, Joseph R Jr;Trump, Donald J;Stefanik, Elise",
+      "column": null,
+      "byline": "By Paul Krugman",
+      "type": "Article",
+      "title": "Reminder: Trump’s Last Year in Office Was a National Nightmare",
+      "abstract": "And he made the nightmare much worse.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Presidential Election of 2024",
+        "Deaths (Fatalities)",
+        "Disease Rates",
+        "Masks"
+      ],
+      "org_facet": [],
+      "per_facet": ["Biden, Joseph R Jr", "Trump, Donald J", "Stefanik, Elise"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills",
+          "approved_for_syndication": 1,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07krugman1/07krugman1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07krugman1/07krugman1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/09/opinion/07krugman1/07krugman1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d5725036-5410-56a3-976f-2c4551108298",
+      "url": "https://www.nytimes.com/article/nova-new-star-t-coronae-borealis.html",
+      "id": 100000009348472,
+      "asset_id": 100090009348472,
+      "category": "sports",
+      "source": "New York Times",
+      "published_date": "2024-03-08",
+      "updated": "2024-03-08 09:25:13",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Space and Astronomy;Stars and Galaxies;Content Type: Service",
+      "column": null,
+      "byline": "By Robin George Andrews",
+      "type": "Article",
+      "title": "The Night Sky Will Soon Get ‘a New Star.’ Here’s How to See It.",
+      "abstract": "A nova named T Coronae Borealis lit up the night about 80 years ago, and astronomers say it’s expected to put on another show in the coming months.",
+      "des_facet": [
+        "Space and Astronomy",
+        "Stars and Galaxies",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "John Smith",
+          "approved_for_syndication": 0,
+          "metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/08sci-nova-59767-cover/08sci-nova-59767-cover-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/08sci-nova-59767-cover/08sci-nova-59767-cover-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/07/08sci-nova-59767-cover/08sci-nova-59767-cover-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

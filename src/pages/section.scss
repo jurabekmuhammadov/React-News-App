@@ -1,0 +1,74 @@
+section {
+  margin-top: 30px;
+
+  .title {
+    margin-bottom: 30px;
+
+    h1 {
+      font-size: 31px;
+      font-weight: 700;
+      line-height: 37px;
+      letter-spacing: 0.005em;
+      text-align: left;
+      color: #11142D;
+    }
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .search-input {
+      outline: none;
+      padding: 5px 10px;
+      border: 1.5px solid #0090e4;
+      border-radius: 10px;
+    }
+  }
+
+  .home__container,
+  .business__container,
+  .entertainment__container,
+  .general__container,
+  .health__container,
+  .science__container,
+  .sports__container,
+  .technology__container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 20px;
+    grid-row-gap: 30px;
+  }
+}
+
+#home {
+  .pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+
+    button {
+      border: none;
+      border-radius: 10px;
+      padding: 5px 10px;
+      cursor: pointer;
+      background-color: rgb(24, 147, 255);
+      color: white;
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 19px;
+      letter-spacing: 0.005em;
+    }
+
+    button:disabled {
+      background-color: rgb(122, 193, 255);
+    }
+
+    span {
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 19px;
+      letter-spacing: 0.005em;
+    }
+  }
+}

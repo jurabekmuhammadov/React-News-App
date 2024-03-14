@@ -1,0 +1,31 @@
+header {
+  height: 75px;
+  background: #109BE9;
+
+  .header__container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+    ul {
+      display: flex;
+      align-items: center;
+      gap: 30px;
+
+      li {
+        a {
+          font-size: 16px;
+          font-weight: 700;
+          line-height: 19px;
+          letter-spacing: 0.005em;
+          text-align: left;
+          color: white;
+        }
+
+        .active {
+          color: #df0000;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,168 @@
+#single-new {
+  border-top: 1px solid #efefef;
+  margin-top: 0;
+}
+#single-new .single-new-container {
+  display: flex;
+  flex-direction: column;
+}
+#single-new .single-new-container .top {
+  padding: 50px 0;
+  background: #109BE9;
+}
+#single-new .single-new-container .top .top__container {
+  display: flex;
+  justify-content: space-between;
+  grid-template-columns: none;
+  grid-row-gap: 0;
+  grid-column-gap: 0;
+}
+#single-new .single-new-container .top .top__container .content .back a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0.005em;
+  text-align: left;
+  color: white;
+  transition: 0.3s;
+  width: 80px;
+}
+#single-new .single-new-container .top .top__container .content .back a svg {
+  transition: 0.3s;
+}
+#single-new .single-new-container .top .top__container .content .back a:hover {
+  color: rgb(204, 0, 0);
+}
+#single-new .single-new-container .top .top__container .content .back a:hover svg {
+  transform: translateX(-8px);
+}
+#single-new .single-new-container .top .top__container .content .date {
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0.005em;
+  text-align: left;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+#single-new .single-new-container .top .top__container .content .title {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0.003em;
+  text-align: left;
+  color: white;
+  max-width: 500px;
+}
+#single-new .single-new-container .top .top__container .content .author {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0.005em;
+  text-align: left;
+  color: rgb(204, 0, 0);
+}
+#single-new .single-new-container .top .top__container .pic img {
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+#single-new .single-new-container .content {
+  padding: 20px 0;
+}
+#single-new .single-new-container .content .content__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  grid-template-columns: none;
+  grid-row-gap: 0;
+  grid-column-gap: 0;
+}
+#single-new .single-new-container .content .content__container h3 {
+  text-transform: capitalize;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0.005em;
+  text-align: left;
+  color: rgb(204, 0, 0);
+}
+#single-new .single-new-container .content .content__container p {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.005em;
+  text-align: left;
+  color: #9A9AB0;
+}
+#single-new .single-new-container .content .content__container a {
+  margin-top: 20px;
+  background: #109BE9;
+  padding: 5px 10px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.005em;
+  text-align: left;
+  color: white;
+  transition: 0.3s;
+}
+#single-new .single-new-container .content .content__container a:hover {
+  background: #007bc2;
+}
+@media (max-width: 768px) {
+  #single-new .single-new-container .top .top__container {
+    flex-direction: column;
+    justify-content: center;
+  }
+  #single-new .single-new-container .top .top__container .content {
+    display: flex;
+    flex-direction: column;
+  }
+  #single-new .single-new-container .top .top__container .content .title {
+    max-width: 100%;
+    text-align: center;
+    font-size: 40px;
+    line-height: 50px;
+  }
+  #single-new .single-new-container .top .top__container .content .date {
+    align-items: center;
+  }
+  #single-new .single-new-container .top .top__container .content .author {
+    margin: 0 auto !important;
+    text-align: center;
+  }
+}
+@media (max-width: 500px) {
+  #single-new .single-new-container .top {
+    padding: 20px 0;
+  }
+  #single-new .single-new-container .top .top__container .content .title {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  #single-new .single-new-container .top .top__container .content .date {
+    font-size: 14px;
+    gap: 3px;
+  }
+  #single-new .single-new-container .content .content__container h3 {
+    font-size: 20px;
+  }
+  #single-new .single-new-container .content .content__container p {
+    font-size: 16px;
+    line-height: 25px;
+  }
+}
