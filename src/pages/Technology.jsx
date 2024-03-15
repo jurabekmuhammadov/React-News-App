@@ -14,14 +14,14 @@ const Technology = () => {
   }, [news]);
 
   async function fetchNews() {
-    try {
-      const response = await axios.get(
-        `http://localhost:3000/news?category=technology`
-      );
-      setNews(response.data);
-    } catch (error) {
-      console.log(error.message);
-    }
+    await axios
+      .get(`http://localhost:3000/news?category=technology`)
+      .then((response) => {
+        setNews(response.data);
+      })
+      .catch((err) => {
+        console.log(err.message);
+      });
   }
 
   const handleSearch = (e) => {

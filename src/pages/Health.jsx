@@ -15,14 +15,14 @@ const Health = () => {
   }, [news]);
 
   async function fetchNews() {
-    try {
-      const response = await axios.get(
-        `http://localhost:3000/news?category=health`
-      );
-      setNews(response.data);
-    } catch (error) {
-      console.log(error.message);
-    }
+    await axios
+      .get(`http://localhost:3000/news?category=health`)
+      .then((response) => {
+        setNews(response.data);
+      })
+      .catch((err) => {
+        console.log(err.message);
+      });
   }
 
   const handleSearch = (e) => {

@@ -15,14 +15,14 @@ const Entertainment = () => {
   }, [news]);
 
   async function fetchNews() {
-    try {
-      const response = await axios.get(
-        `http://localhost:3000/news?category=entertainment`
-      );
-      setNews(response.data);
-    } catch (error) {
-      console.log(error.message);
-    }
+    await axios
+      .get(`http://localhost:3000/news?category=entertainment`)
+      .then((response) => {
+        setNews(response.data);
+      })
+      .catch((err) => {
+        console.log(err.message);
+      });
   }
 
   const handleSearch = (e) => {

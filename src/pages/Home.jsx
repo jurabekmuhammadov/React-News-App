@@ -20,25 +20,26 @@ const HomePage = () => {
     setSearchedNews(news);
   }, [news]);
 
-  const fetchNews = async () => {
-    try {
-      const response = await axios.get(
-        `http://localhost:3000/news?_page=${page}&_per_page=8`
-      );
-      setNews(response.data.data);
-    } catch (error) {
-      console.log(error.message);
-    }
-  };
-
-  const getCount = async () => {
-    try {
-      const response = await axios.get(`http://localhost:3000/news`);
-      setCount(response.data.length);
-    } catch (error) {
-      console.log(error.message);
-    }
-  };
+  async function fetchNews() {
+    await axios
+      .get(`http://localhost:3000/news?_page=${page}&_per_page=8`)
+      .then((response) => {
+        setNews(response.data.data);
+      })
+      .catch((err) => {
+        console.log(err.message);
+      });
+  }
+  async function getCount() {
+    await axios
+      .get(`http://localhost:3000/news`)
+      .then((response) => {
+        setCount(response.data.length);
+      })
+      .catch((err) => {
+        console.log(err.message);
+      });
+  }
 
   const handlePage = (type) => {
     if (type === "prev") {

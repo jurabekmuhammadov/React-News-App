@@ -15,14 +15,14 @@ const General = () => {
   }, [news]);
 
   async function fetchNews() {
-    try {
-      const response = await axios.get(
-        `http://localhost:3000/news?category=general`
-      );
-      setNews(response.data);
-    } catch (error) {
-      console.log(error.message);
-    }
+    await axios
+      .get(`http://localhost:3000/news?category=general`)
+      .then((response) => {
+        setNews(response.data);
+      })
+      .catch((err) => {
+        console.log(err.message);
+      });
   }
   const handleSearch = (e) => {
     let search = e.target.value.trim().toLowerCase();
