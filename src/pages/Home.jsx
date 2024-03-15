@@ -7,7 +7,7 @@ const HomePage = () => {
   const [news, setNews] = useState([]);
   const [page, setPage] = useState(1);
   const [count, setCount] = useState(0);
-  const [searchedNews, setSearchedNews] = useState(news);
+  const [searchedNews, setSearchedNews] = useState([]);
   const hasPrev = Boolean(page > 1);
   const hasNext = Boolean(page >= Math.trunc(count / 8));
 
@@ -20,7 +20,7 @@ const HomePage = () => {
     setSearchedNews(news);
   }, [news]);
 
-  async function fetchNews() {
+  const fetchNews = async () => {
     try {
       const response = await axios.get(
         `http://localhost:3000/news?_page=${page}&_per_page=8`
@@ -29,15 +29,17 @@ const HomePage = () => {
     } catch (error) {
       console.log(error.message);
     }
-  }
-  async function getCount() {
+  };
+
+  const getCount = async () => {
     try {
       const response = await axios.get(`http://localhost:3000/news`);
       setCount(response.data.length);
     } catch (error) {
       console.log(error.message);
     }
-  }
+  };
+
   const handlePage = (type) => {
     if (type === "prev") {
       setPage(page - 1);
@@ -45,6 +47,7 @@ const HomePage = () => {
       setPage(page + 1);
     }
   };
+
   const handleSearch = (e) => {
     let search = e.target.value.trim().toLowerCase();
     setSearchedNews(
