@@ -14,8 +14,11 @@ const HomePage = () => {
   useEffect(() => {
     fetchNews();
     getCount();
+  }, [page]);
+
+  useEffect(() => {
     setSearchedNews(news);
-  }, [page, news]);
+  }, [news]);
 
   async function fetchNews() {
     try {
@@ -45,8 +48,7 @@ const HomePage = () => {
   const handleSearch = (e) => {
     let search = e.target.value.trim().toLowerCase();
     setSearchedNews(
-      news.filter((news) => news.title.toLowerCase().includes(search)) ||
-        news.filter((news) => news.abstract.toLowerCase().includes(search))
+      news.filter((news) => news.title.toLowerCase().includes(search))
     );
   };
 

@@ -4,10 +4,15 @@ import NewCard from "../components/NewCard/NewCard";
 
 const Business = () => {
   const [news, setNews] = useState([]);
+  const [searchedNews, setSearchedNews] = useState(news);
 
   useEffect(() => {
     fetchNews();
   }, []);
+
+  useEffect(() => {
+    setSearchedNews(news);
+  }, [news]);
 
   async function fetchNews() {
     try {
@@ -19,13 +24,25 @@ const Business = () => {
       console.log(error.message);
     }
   }
+  const handleSearch = (e) => {
+    let search = e.target.value.trim().toLowerCase();
+    setSearchedNews(
+      news.filter((news) => news.title.toLowerCase().includes(search))
+    );
+  };
   return (
     <section id="business">
       <div className="title container">
         <h1>Business News</h1>
+        <input
+          type="text"
+          onChange={handleSearch}
+          placeholder="Search news..."
+          className="search-input"
+        />
       </div>
       <div className="container business__container">
-        {news.map((item, index) => (
+        {searchedNews.map((item, index) => (
           <NewCard key={index} news={item} />
         ))}
       </div>
