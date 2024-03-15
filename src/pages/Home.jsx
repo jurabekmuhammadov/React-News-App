@@ -1,7 +1,7 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-import "./section.scss";
 import NewCard from "../components/NewCard/NewCard";
+import "./section.scss";
 
 const HomePage = () => {
   const [news, setNews] = useState([]);
